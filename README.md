@@ -18,7 +18,7 @@
 
 ## News & Updates
 
-
+- 📦 **[2025.09]** We have released our [Poster100K dataset](https://huggingface.co/datasets/PosterCraft/Poster100K) on HuggingFace!
 - 🖥️ **[2025.06]** We have pushed our work on [MeiGen-AI](https://github.com/MeiGen-AI), where you can explore not only our project but also the work of other colleagues. Feel free to check it out for more insights and contributions.
 - 🧩 **[2025.06]** Community user [@AIFSH](https://github.com/AIFSH) has successfully integrated **PosterCraft into ComfyUI**!  
   You can check out the full workflow here: [PosterCraft-ComfyUI Example](https://www.xiangongyun.com/image/detail/68b711eb-a31e-47db-82eb-47438359f4bf?r=XLVYLW)  
